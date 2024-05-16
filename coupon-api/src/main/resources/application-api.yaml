@@ -1,0 +1,5 @@
+sprig:
+  application:
+    name: coupon-api
+  server:
+    port: 8080
